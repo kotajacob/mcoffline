@@ -3,7 +3,7 @@
 .POSIX:
 .SUFFIXES:
 
-VERSION = 2000.0.0
+VERSION = 2001.0.0
 GO = go
 RM = rm
 INSTALL = install
